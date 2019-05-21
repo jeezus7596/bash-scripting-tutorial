@@ -28,3 +28,4 @@ case $num in
 
 
 esac
+PRESS Q TO RUN THE SCRIPT
