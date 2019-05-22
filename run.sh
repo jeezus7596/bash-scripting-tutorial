@@ -22,52 +22,51 @@ echo "You have selected $num"
 
 case $num in
 0)
-	less script.sh && ./script.sh
+	less script.sh && ./script.sh && ./run.sh
 	;;
 
 1)
-	less funtiontests.sh && ./funtiontests.sh
+	less funtiontests.sh && ./funtiontests.sh && ./run.sh
 	;;
 
 2)
-	less conditionals.sh && ./conditionals.sh
+	less conditionals.sh && ./conditionals.sh && ./run.sh
 	;;
 
 3)
-	less conditionals2.sh && ./conditionals2.sh
+	less conditionals2.sh && ./conditionals2.sh && ./run.sh
 	;;
 
 4)
-	less case.sh && ./case.sh
+	less case.sh && ./case.sh && ./run.sh
 	;;
 
 5)
-	less files.sh && ./files.sh
+	less files.sh && ./files.sh && ./run.sh
 	;;
 
 6)
-	less strings.sh && ./strings.sh
+	less strings.sh && ./strings.sh && ./run.sh
 	;;
 
 7)
-	less regexp.sh && ./regexp.sh
+	less regexp.sh && ./regexp.sh && ./run.sh
 	;;
 
 8)
-	less strparamexp.sh && ./strparamexp.sh
+	less strparamexp.sh && ./strparamexp.sh && ./run.sh
 	;;
 
 9)
-	less looping.sh && ./looping.sh
+	less looping.sh && ./looping.sh && ./run.sh
 	;;
 
-
 10)
-	less arrays.sh && ./arrays.sh
+	less arrays.sh && ./arrays.sh && ./run.sh
 	;;
 
 11)
-	less positionalparams.sh && ./positionalparams.sh
+	less positionalparams.sh && ./positionalparams.sh && ./run.sh
 	;;
 
 esac
