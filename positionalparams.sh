@@ -17,4 +17,4 @@ done
 #shift will move an argument value to the previous position
 
 echo "Sum: $sum"
-PRESS Q TO RUN THE SCRIPT
+#PRESS Q TO RUN THIS SCRIPT

@@ -10,4 +10,4 @@ echo "index after 'A' and space is ${rand_str#*A }"
 echo "Please note that indices start from 0"
 
 
-PRESS Q TO RUN THE SCRIPT
+#PRESS Q TO RUN THIS SCRIPT

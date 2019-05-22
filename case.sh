@@ -29,4 +29,5 @@ can_vote=0
 ((age>=18?(can_vote=1):(can_vote=0)))
 echo $can_vote
 
-PRESS Q TO RUN THE SCRIPT
+
+#PRESS Q TO RUN THIS SCRIPT

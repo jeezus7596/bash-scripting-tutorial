@@ -43,4 +43,4 @@ unset sorted_nums
 
 
 
-PRESS Q TO RUN THE SCRIPT
+#PRESS Q TO RUN THIS SCRIPT

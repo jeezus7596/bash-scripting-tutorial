@@ -36,4 +36,4 @@ this is how
 it works
 !!!
 THIS
-PRESS Q TO RUN THE SCRIPT
+#PRESS Q TO RUN THIS SCRIPT

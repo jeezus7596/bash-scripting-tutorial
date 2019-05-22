@@ -55,4 +55,4 @@ echo "FOR loop variation 1"
 for i in {A..Z}; do
 	echo $i
 done
-PRESS Q TO RUN THE SCRIPT
+#PRESS Q TO RUN THIS SCRIPT

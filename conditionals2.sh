@@ -31,4 +31,4 @@ touch samplefile && vim samplefile
 # if dir doesnt exist, then make it
 
 [ -d samp_dir ] || mkdir samp_dir
-PRESS Q TO RUN THE SCRIPT
+#PRESS Q TO RUN THIS SCRIPT

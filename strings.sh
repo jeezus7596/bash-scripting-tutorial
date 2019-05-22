@@ -29,4 +29,4 @@ else
 	echo "otherwise"
 fi
 
-PRESS Q TO RUN THE SCRIPT
+#PRESS Q TO RUN THIS SCRIPT

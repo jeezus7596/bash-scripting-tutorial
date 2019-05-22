@@ -31,4 +31,4 @@ getSum()
 sum=$(getSum 1 3)
 echo $sum
 echo $(getSum 1 2)
-PRESS Q TO RUN THE SCRIPT
+#PRESS Q TO RUN THIS SCRIPT
